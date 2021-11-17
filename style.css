@@ -1,0 +1,23 @@
+body{
+text-align: center;
+}
+
+#title{
+font-size: 80px;
+font-variant:small-caps;
+word-spacing:10px;
+}
+
+#image{
+width: 600px;
+border-style:solid;
+padding:5px;
+border-color: #039BE5;
+border-width:7px;
+border-radius:20px;
+}
+
+#reason1{
+font-size: 40px;
+}
+
